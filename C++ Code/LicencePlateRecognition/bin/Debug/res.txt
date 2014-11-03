@@ -1,0 +1,33 @@
+/home/roy/Documents/Images/cars/images/Positives/trainpos0048.jpg 1 386 177 52 19
+/home/roy/Documents/Images/cars/images/Positives/trainpos0002.jpg 1 328 221 50 19
+/home/roy/Documents/Images/cars/images/Positives/trainpos0035.jpg 3 262 206 16 7 329 190 9 7 26 264 30 12
+/home/roy/Documents/Images/cars/images/Positives/trainpos0009.jpg 1 170 211 83 20
+/home/roy/Documents/Images/cars/images/Positives/trainpos0044.jpg 1 118 285 86 23
+/home/roy/Documents/Images/cars/images/Positives/trainpos0040.jpg 2 1 331 17 33 164 258 16 23
+/home/roy/Documents/Images/cars/images/Positives/trainpos0013.jpg 2 183 211 43 18 445 258 61 21
+/home/roy/Documents/Images/cars/images/Positives/trainpos0028.jpg 1 286 356 40 24
+/home/roy/Documents/Images/cars/images/Positives/trainpos0043.jpg 4 49 233 19 12 97 246 24 13 174 240 12 8 203 237 11 9
+/home/roy/Documents/Images/cars/images/Positives/trainpos0038.jpg 1 198 255 109 27
+/home/roy/Documents/Images/cars/images/Positives/trainpos0036.jpg 3 222 213 44 10 462 198 43 8 13 247 42 10
+/home/roy/Documents/Images/cars/images/Positives/trainpos0021.jpg 1 423 233 32 18
+/home/roy/Documents/Images/cars/images/Positives/trainpos0047.jpg 1 473 223 24 18
+/home/roy/Documents/Images/cars/images/Positives/trainpos0037.jpg 1 256 226 86 25
+/home/roy/Documents/Images/cars/images/Positives/trainpos0033.jpg 4 363 216 36 15 222 209 28 14 136 224 28 13 47 203 15 6
+/home/roy/Documents/Images/cars/images/Positives/trainpos0025.jpg 4 115 212 26 11 216 220 30 7 339 240 34 7 463 240 32 11
+/home/roy/Documents/Images/cars/images/Positives/trainpos0008.jpg 2 281 246 66 20 80 233 51 17
+/home/roy/Documents/Images/cars/images/Positives/trainpos0041.jpg 1 152 211 89 23
+/home/roy/Documents/Images/cars/images/Positives/trainpos0031.jpg 3 9 251 51 25 353 209 19 17 455 233 20 9
+/home/roy/Documents/Images/cars/images/Positives/trainpos0032.jpg 1 226 242 53 13
+/home/roy/Documents/Images/cars/images/Positives/trainpos0030.jpg 2 229 191 45 15 89 204 25 11
+/home/roy/Documents/Images/cars/images/Positives/trainpos0003.jpg 2 433 292 26 22 477 207 21 14
+/home/roy/Documents/Images/cars/images/Positives/trainpos0045.jpg 1 157 274 105 25
+/home/roy/Documents/Images/cars/images/Positives/trainpos0010.jpg 2 204 191 95 23 6 164 31 13
+/home/roy/Documents/Images/cars/images/Positives/trainpos0011.jpg 3 204 210 78 20 383 119 30 8 64 128 21 8
+/home/roy/Documents/Images/cars/images/Positives/trainpos0046.jpg 4 193 237 19 15 244 243 18 14 321 240 9 6 347 208 17 11
+/home/roy/Documents/Images/cars/images/Positives/trainpos0039.jpg 4 34 171 21 7 86 182 32 16 213 222 34 16 358 242 48 25
+/home/roy/Documents/Images/cars/images/Positives/trainpos0012.jpg 1 156 261 71 22
+/home/roy/Documents/Images/cars/images/Positives/trainpos0023.jpg 2 218 235 56 16 2 233 49 16
+/home/roy/Documents/Images/cars/images/Positives/trainpos0027.jpg 2 318 201 19 9 497 209 14 10
+/home/roy/Documents/Images/cars/images/Positives/trainpos0020.jpg 2 164 233 59 17 359 212 53 14
+/home/roy/Documents/Images/cars/images/Positives/trainpos0017.jpg 1 457 242 41 19
+/home/roy/Documents/Images/cars/images/Positives/trainpos0022.jpg 3 181 223 24 14 96 212 23 12 479 265 30 21

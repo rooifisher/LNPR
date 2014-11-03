@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1413991747 source:/home/roy/Documents/Licence Plate Recognition/C++ Code/LicencePlateRecognition/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+
+1414035322 source:/home/roy/Documents/Licence Plate Recognition/src/imageclipper.cpp
+	<opencv/cv.h>
+	<opencv/cvaux.h>
+	<opencv/highgui.h>
+	<stdio.h>
+	<sys/io.h>
+	<string>
+	<fstream>
+	<sstream>
+	<dirent.h>
+	<sys/types.h>
+
